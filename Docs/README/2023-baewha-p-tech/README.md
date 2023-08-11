@@ -1,5 +1,5 @@
 ---
-description: Made By KimJungBin
+description: Made By KimJungbin
 layout:
   title:
     visible: true
