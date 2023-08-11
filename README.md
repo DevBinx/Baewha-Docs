@@ -1,60 +1,13 @@
----
-description: Made By KimJungBin
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# 📄 Baewha-Docs
 
-# 🏠 Home
+학습활동서 및 학사일정 확인에 대한 편리함과 도움을 주는 Docs 문서입니다. <br>
+GitBook을 통해 작성 중이며, 현재진행형으로 업데이트 되고 있습니다.
 
-## 🏫 P-Tech
+이전 Notion을 통한 학습활동서 문서화 과정에서 사용할 수 있는 블록스페이스 갯수가 한계에 도달해,
+GitBook을 통한 문서 이전 작업을 진행하고 있습니다.
 
+바로가기 Link: <b>[Baewha Docs](https://2023-baewha-ptech.gitbook.io/home/)</b>
+<hr>
 
-
-{% content-ref url="p-tech/2023-1/" %}
-[2023-1](p-tech/2023-1/)
-{% endcontent-ref %}
-
-{% content-ref url="p-tech/2023-2/" %}
-[2023-2](p-tech/2023-2/)
-{% endcontent-ref %}
-
-## 💡Quick Link
-
-
-
-{% content-ref url="p-tech/2023-1/1/" %}
-[1](p-tech/2023-1/1/)
-{% endcontent-ref %}
-
-{% content-ref url="p-tech/2023-2/2/" %}
-[2](p-tech/2023-2/2/)
-{% endcontent-ref %}
-
-## 🌐Site List
-
-{% tabs %}
-{% tab title="K-Dual LMS" %}
-{% embed url="http://baewha.kdual.net/" fullWidth="false" %}
-{% endtab %}
-
-{% tab title="HRD-Net" %}
-{% embed url="https://www.hrd.go.kr/hrdp/ma/pmmao/newIndexRenewal.do" %}
-{% endtab %}
-
-{% tab title="Naver Cafe" %}
-{% embed url="https://cafe.naver.com/baewha2023mobile" %}
-{% endtab %}
-
-{% tab title="Baewha Portal" %}
-{% embed url="https://portal.baewha.ac.kr/" %}
-{% endtab %}
-{% endtabs %}
+![image](https://github.com/DevBinx/Baewha-Docs/assets/85083733/e8222781-74b9-40cb-a8a1-d04e1475b6ab)
+<img width="196" alt="image" src="https://github.com/DevBinx/Baewha-Docs/assets/85083733/b2916a6d-3991-43c5-92bb-41a669d1adea">
