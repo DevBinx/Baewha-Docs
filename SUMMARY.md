@@ -1,9 +1,10 @@
 # Table of contents
 
-* [📚 2023 Baewha P-Tech](README.md)
+* [🏠 Home](README.md)
 
 ## 🏫 P-Tech
 
+* [📚 2023 Baewha P-Tech](p-tech/2023-baewha-p-tech.md)
 * [📗 2023 - 1학기](p-tech/2023-1/README.md)
   * [📒 1학기 학습 활동서 작성 가이드](p-tech/2023-1/1/README.md)
     * [🎓 1학기 정규학기](p-tech/2023-1/1/1/README.md)

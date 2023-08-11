@@ -13,30 +13,30 @@ layout:
     visible: true
 ---
 
-# 🏠 Home
+# 📚 2023 Baewha P-Tech
 
 ## 🏫 P-Tech
 
 
 
-{% content-ref url="p-tech/2023-1/" %}
-[2023-1](p-tech/2023-1/)
+{% content-ref url="2023-1/" %}
+[2023-1](2023-1/)
 {% endcontent-ref %}
 
-{% content-ref url="p-tech/2023-2/" %}
-[2023-2](p-tech/2023-2/)
+{% content-ref url="2023-2/" %}
+[2023-2](2023-2/)
 {% endcontent-ref %}
 
 ## 💡Quick Link
 
 
 
-{% content-ref url="p-tech/2023-1/1/" %}
-[1](p-tech/2023-1/1/)
+{% content-ref url="2023-1/1/" %}
+[1](2023-1/1/)
 {% endcontent-ref %}
 
-{% content-ref url="p-tech/2023-2/2/" %}
-[2](p-tech/2023-2/2/)
+{% content-ref url="2023-2/2/" %}
+[2](2023-2/2/)
 {% endcontent-ref %}
 
 ## 🌐Site List
