@@ -9,6 +9,6 @@
 [2](2/)
 {% endcontent-ref %}
 
-{% content-ref url="2023.md" %}
-[2023.md](2023.md)
+{% content-ref url="2023/" %}
+[2023](2023/)
 {% endcontent-ref %}

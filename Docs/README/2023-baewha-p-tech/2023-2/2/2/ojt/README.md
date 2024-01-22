@@ -1,4 +1,4 @@
-# OJT
+# 📔 OJT
 
 {% content-ref url="ojt.md" %}
 [ojt.md](ojt.md)
